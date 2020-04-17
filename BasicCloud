@@ -1,0 +1,54 @@
+onprime
+
+> onprime
+> cloud
+> Hybrid(onprime+cloud)
+
+> IAAS(infra as a service)
+> PAAS(platform as a service)
+> SAAS(software as a service)
+
+
+Access
+
+IAM
+Ec2
+lightsail
+lamdba
+ElasticBeanStalk
+
+S3
+Efs
+S3Glacier
+
+RDS
+DynamoDB
+Elastic Cache
+RedShift
+
+DMS
+SnowBall
+
+codepipe
+VPC
+CloudFront
+Route53
+
+CloudWatch
+CloudFormation
+Cloud Trail 
+opswork
+Trust Advisor
+
+IAM
+KMS
+
+SNS
+SQS
+SES
+SWF
+
+ECS 
+EKS 
+//
+CLI
