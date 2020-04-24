@@ -76,6 +76,11 @@ Dedicate Host        => Dedicated physical Machine for my VM
 => chkconfig httpd on
 => publicip/ index.html
 
+<div style="background-color:red">
+        <h1>Linux Machine</h1>
+</div>
+
+
 /************************
     Use Windows  as web server
 *************************/
@@ -175,6 +180,15 @@ Spreed in single AZ but different physical Server
             => Instance Setting
                 => View & change user data
 
+
+/************************
+    Elastic PUBLIC IP 
+*************************/
+> Elastic IPs
+    > Allocate Elastic IP
+        >Allocate
+
+Security Group
 
 
 //

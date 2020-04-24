@@ -1,10 +1,10 @@
 component of IAM
 > Users => 
-Each person can be one User
+Each person can be one User Id       
 Each user can have different permissions
 
 > Group
-We can club multiple user and provide common acces
+We can club multiple user and provide common acces   
 
 > Roles
 Roles are not for users
