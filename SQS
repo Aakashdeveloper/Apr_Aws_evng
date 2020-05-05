@@ -1,0 +1,8 @@
+Whats App
+
+Simple Queue Service
+
+pull base
+> Queue > Pull Queue
+> Visibility 
+> Message will be delivered atleast once
